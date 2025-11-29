@@ -4,6 +4,10 @@ Mediocre to poor fantasy baseball projections.
 
 `pip install git+https://github.com/anpatton/blyjections`
 
+Definitions: `https://library.fangraphs.com/`
+
+Data: `pybaseball`
+
 ## Targets
 
 | Scoring Group | Scoring Category          | Weight |
