@@ -19,15 +19,21 @@ Mediocre to poor fantasy baseball projections.
 | Pitching      | Saves + Holds (SVH)       | 1      |
 | Pitching      | WHIP Ratio (WHIP)         | 1      |
 
-### Hitting
-
--   RBI
-
--   R
+### Independent Hitting
 
 -   OBP
 
 -   SLG
+
+$$
+E = mc^2
+$$
+
+### Dependent Hitting
+
+-   RBI
+
+-   R
 
 ### Pitching
 

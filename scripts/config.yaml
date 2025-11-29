@@ -43,3 +43,25 @@ seasons:
   2026:
     start_date: '2026-03-25'
     end_date: '2026-09-27'
+batting_basic:
+    - Season
+    - IDfg
+    - Name
+    - Age
+    - G
+    - PA
+    - AB
+    - H
+    - 1B
+    - 2B
+    - 3B
+    - HR
+    - R
+    - RBI
+    - BB
+    - IBB
+    - HBP
+    - SO
+    - SB
+    - CS
+    - GDP
