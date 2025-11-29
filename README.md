@@ -23,11 +23,11 @@ Mediocre to poor fantasy baseball projections.
 
 -   OBP
 
-$\Large OBP = \frac{H + BB + HBP}{AB + BB + HBP + SF}$
+$\large OBP = \frac{H + BB + HBP}{AB + BB + HBP + SF}$
 
 -   SLG
 
-$\Large SLG = \frac{1B + (2 \times 2B) + (3 \times 3B) + (4 \times HR)}{AB}$
+$\large SLG = \frac{1B + (2 \times 2B) + (3 \times 3B) + (4 \times HR)}{AB}$
 
 ### Dependent Hitting
 
