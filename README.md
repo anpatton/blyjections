@@ -21,11 +21,7 @@ Mediocre to poor fantasy baseball projections.
 
 ### Independent Hitting
 
--   OBP
-
 $\large OBP = \frac{H + BB + HBP}{AB + BB + HBP + SF}$
-
--   SLG
 
 $\large SLG = \frac{1B + (2 \times 2B) + (3 \times 3B) + (4 \times HR)}{AB}$
 
@@ -41,12 +37,12 @@ $\large SLG = \frac{1B + (2 \times 2B) + (3 \times 3B) + (4 \times HR)}{AB}$
 
 -   W
 
--   ERA
+$\large ERA = \frac{ER \times 9}{IP}$
 
--   SVH
+$\large SVH = SV + HLD$
 
--   WHIP
+$\large WHIP = \frac{BB + H}{IP}$
 
 ### Misc.
 
--   SBN
+$\large SBN = SB - CS$
