@@ -25,9 +25,7 @@ Mediocre to poor fantasy baseball projections.
 
 -   SLG
 
-$$
-E = mc^2
-$$
+$\Large E = mc^2$
 
 ### Dependent Hitting
 
