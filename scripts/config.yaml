@@ -51,6 +51,7 @@ batting_basic:
     - G
     - PA
     - AB
+    - AVG
     - H
     - 1B
     - 2B
