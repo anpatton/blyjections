@@ -1,5 +1,7 @@
-# custom
-src/scripts/data/
+#custom
+**/dev.ipynb
+**/dev.py
+.DS_store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
