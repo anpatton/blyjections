@@ -2,6 +2,8 @@
 
 Mediocre to poor fantasy baseball projections.
 
+`pip install git+https://github.com/anpatton/blyjections`
+
 ## Targets
 
 | Scoring Group | Scoring Category          | Weight |
