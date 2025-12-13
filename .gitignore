@@ -1,7 +1,9 @@
 #custom
 **/dev.ipynb
 **/dev.py
-.DS_store
+.DS_Store
+**/push_app.R
+**/rsconnect/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
